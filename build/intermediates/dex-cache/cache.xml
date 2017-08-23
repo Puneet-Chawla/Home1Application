@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_fb1030cd755fe23325f82a2d6fc2a5a48d614512\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_16e295ae7ac0cc64634e260c58107e4067925e94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_e8fa1af5839dda187da93cb1dc262ad93ab009eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_ec04ab1a81ea5a9ddb5e072ef6cd292bf2c9f5d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_48abb2802b61d6a9aac3c3ba6e6d062cd52361f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_c701ab9aca063d68fc6ff88f9251f77f96aa8d6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_0d264d2a3032362a52a7a3159f58fdd56865d0cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_248a11843229084beba5f59af1bd48b780aeb2e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_ab3590da8b2ac2ccf829256e5406619b2fca6bbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_3b428a1fb46d97d0cb68e63a5ec82af3a1dd22eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_e805d5ec08e0a9ceeb42e25e86b6a3d29f70c238\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9ce8a2e84254c5e22cf70cc7140db14aaf0b9350">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_23e8dceccc38209113395dd314bc75b7fe026228\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5cc5764cbeb7e10601efd7db67bfb2e1489c6d4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_dbef2c7944da1d028f10958f4544ed80bcd40f15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_33d9a26905e553f1301c7a631f7ae0285bda0547\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_d9ec62369fcd8aed4207b04229d06e79825ed5e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_5e672b7dab2e6c8bfbd7ad88f94f091a7bad9d3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_c0676c7d6b070b7a48ffc0bffbbb83a509922a99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d8d61101a46f17c36d5ee27b12428cec1462e830\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f68f72479ed46017f23f2b52af296cc69ed425e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_39807722d04d62fb8528baf9867c23729df9714a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_6af667f78568287d9db4a8c3aa32232b7a06e035\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_93345c691cbaaf17837dff3f4677d2c08b0371ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_4403c01b1f159fc6462f5ed09c3a14d1c7c6ef80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_c393084d04931748d10ab36441db9adf5393c368\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_0c6c28615d87b4ec788e749b588f6dd4e34c08fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_bed9d25a21ff0b34a50a06005e1c99c3bb6f2996\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_1e8af5aae69ecbfb9f3bf94436d32d4977481afb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_2473cc75247c4c03be9f2aa0d3e135cba5d60e0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c063749d6272581f63e4c3c77caa9c53ef6424e6">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0bd0f562ad30a120a88803dfcdc8bd09b4f679d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_8c8bedd87e91841dff7861d70589bd96f7c2e79c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_36ed564c7b425a28ca9844e2736af951a58d32d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_6fe90537573f82cbd26c5fe1064d07e83e4e1853\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Student\Desktop\HsarPartner\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_e9f5391521e606f18cb88bf27af471d668dbf132\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Tue Jul 18 07:21:59 IST 2017
+base.0=C\:\\Users\\Student\\Desktop\\HsarPartner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_23e8dceccc38209113395dd314bc75b7fe026228
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Student\\Desktop\\HsarPartner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0bd0f562ad30a120a88803dfcdc8bd09b4f679d4\\classes.dex
+base.1=C\:\\Users\\Student\\Desktop\\HsarPartner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0bd0f562ad30a120a88803dfcdc8bd09b4f679d4
+file.0=C\:\\Users\\Student\\Desktop\\HsarPartner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_23e8dceccc38209113395dd314bc75b7fe026228\\classes.dex

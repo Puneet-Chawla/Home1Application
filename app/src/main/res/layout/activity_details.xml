@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_details"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.student.hsarpartner.Details">
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Margin scheme"
+           android:textSize="@dimen/caption"
+           android:textAllCaps="true"
+           android:textStyle="bold"
+           android:textAlignment="center"
+           android:textColor="#15c1df"/>
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="20dp"
+           android:text="Details"
+           android:textSize="@dimen/text"/>
+
+    <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="FOR SCOPE"
+       android:textSize="@dimen/caption"
+       android:textAllCaps="true"
+       android:textStyle="bold"
+        android:layout_marginTop="20dp"
+       android:textAlignment="center"
+       android:textColor="#15c1df"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="\nFor Electrical type-in:\n1.fans\n2.coolers\n3.Motors\n4.Juicers\n5.Press\n6.Washing Machine\n7.Gysers\n8.Inverter\n9.Wiring"
+        android:textSize="@dimen/text"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="AND:\nFor Electronics type-in:\n1.Oven\n2.Microwave\n3.T.V.\n4.LCD\n5.DVD\n6.Home Theatre\n7.Music System"
+        android:textSize="@dimen/text"/>
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="20dp"
+           android:text="AND:\nFor Refrigerator type-in:\n1.Single Door\n2.Double Door\n3.French Door Refrigerator\n4.LCD\n5.Side by Side\n6.Bottom Freezer"
+           android:textSize="@dimen/text"/>
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="aadhar card "
+           android:textSize="@dimen/caption"
+           android:textAllCaps="true"
+           android:textStyle="bold"
+           android:layout_marginTop="20dp"
+           android:textAlignment="center"
+           android:textColor="#15c1df"/>
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="20dp"
+           android:text="Providing Addhar Card number is optional for registerstion"
+           android:textSize="@dimen/text"/>
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="member number "
+           android:textSize="@dimen/caption"
+           android:layout_marginTop="20dp"
+           android:textAllCaps="true"
+           android:textStyle="bold"
+           android:textAlignment="center"
+           android:textColor="#15c1df"/>
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="20dp"
+android:text="After being verified by us the partner will be provided with a unique member number"
+           android:textSize="@dimen/text"/>
+
+
+
+   </LinearLayout>
+</ScrollView>
